@@ -12,8 +12,8 @@
 
 
 ## :pencil2: Mis Proyectos: :trophy:       
-- [Sistema de Gestión de Panteón de Comunidad](https://github.com/jersain28/SGPC_front-end)
-- [Sistema de Gestión de Panteón de Comunidad](https://github.com/jersain28/SGPC_back-end)
+- [Sistema de Gestión de Panteón de Comunidad Frontend](https://github.com/jersain28/SGPC_front-end)
+- [Sistema de Gestión de Panteón de Comunidad Backend](https://github.com/jersain28/SGPC_back-end)
 - [QUICKSOS Frontend](https://github.com/luisEnrique22xd/QuickSOSFront.git)
 - [QUICKSOS Backend](https://github.com/luisEnrique22xd/QuickSOSBackend.git)
 - [Sistema Integral de Tutorias](https://github.com/ifranco07/tutorias2.git)
